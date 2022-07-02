@@ -7,7 +7,7 @@ package projeto;
 
 import java.util.Scanner;
 
-public class A04SomaSimple004 {
+public class A04SomaSimple {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         int A = leitor.nextInt();

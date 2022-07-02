@@ -6,7 +6,7 @@
 
 package projeto;
 
-public class A01HelloWorld001 {
+public class A01HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
